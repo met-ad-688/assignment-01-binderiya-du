@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/met-ad-688/assignment-01-binderiya-du.git
+	fetch = +refs/*:refs/*
+	mirror = true
